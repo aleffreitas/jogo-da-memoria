@@ -4,8 +4,7 @@
 
 <h3 align="justify">Esse projeto foi uma proposta do curso Desenvolvedor Full Stack - Programador BR.</h3><br>
     <h3 align="center">
-        <img src="./github/memoria.gif
-        " />
+        <img src="./github/memoria.gif"/>
     </h3>
 
 <h3 align="center">Posteriormente irei transformar ou até mesmo fazer uma nova versão desse projeto em React JS.</h3>
