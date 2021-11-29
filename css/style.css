@@ -83,3 +83,27 @@ body{
     grid-template: 1fr 1fr 1fr 1fr 1fr / 1fr 1fr 1fr 1fr;
     gap: 20px;
 }
+
+@media (max-width: 500px){
+
+    #gameBoard{
+        max-width: 450px;
+        grid-template: 1fr 1fr 1fr 1fr 1fr/1fr 1fr 1fr 1fr;
+
+    }
+
+    .card{
+        width: 60px;
+        height: 60px;
+    }
+    
+    img{
+        width: 80%;
+        height: 80%;
+    }
+
+    #gameOver{        
+        font-size: 30px;
+        text-align: center;
+    }
+}
